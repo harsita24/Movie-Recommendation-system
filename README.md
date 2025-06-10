@@ -17,6 +17,8 @@ Features
 - Powered by TMDB datasets
 
  Project Structure
+
+ 
  movie_recommendation_system/
 ├── app.py # Main web application (Streamlit)
 ├── Movie_Recommendation_System.ipynb # Jupyter notebook for exploration
