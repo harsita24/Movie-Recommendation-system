@@ -16,17 +16,6 @@ Features
 - Interactive UI to explore recommendations
 - Powered by TMDB datasets
 
- Project Structure
-
- 
- movie_recommendation_system/
-├── app.py # Main web application (Streamlit)
-├── Movie_Recommendation_System.ipynb # Jupyter notebook for exploration
-├── movie_data.pkl # Preprocessed data for fast loading
-├── tmdb_5000_movies.csv # Raw movie metadata
-├── tmdb_5000_credits.csv # Cast and crew metadata
-├── requirements.txt # Python dependencies
-
 1. Clone the repository
 2. Create and activate a virtual environment
 3. python -m venv venv
