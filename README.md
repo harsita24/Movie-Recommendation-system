@@ -24,6 +24,7 @@ Features
 6. streamlit run app.py
 
 Results
+
 Below are sample screenshots of the application in action:
 
 ![Screenshot 2025-06-10 224704](https://github.com/user-attachments/assets/7b971c05-f434-4972-8640-5ddf08f182b5)
